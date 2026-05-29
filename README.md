@@ -35,6 +35,12 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
+
+NAME: MADHU SHRUTHI A.R
+
+REG: 212225040216
+
+
 ```
 import numpy as np
 import pandas as pd
@@ -151,4 +157,4 @@ print("\nModel Accuracy (Embedded Method):", accuracy)
 ```
 <img width="1119" height="86" alt="image" src="https://github.com/user-attachments/assets/8f7088e1-384d-42a6-819d-152b8d5c7eed" />
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the Feature Scaling and selection Executed successfully.
