@@ -156,5 +156,7 @@ accuracy = accuracy_score(y_test, y_pred)
 print("\nModel Accuracy (Embedded Method):", accuracy)
 ```
 <img width="1119" height="86" alt="image" src="https://github.com/user-attachments/assets/8f7088e1-384d-42a6-819d-152b8d5c7eed" />
-# RESULT:
+
+
+## RESULT:
 Thus the Feature Scaling and selection Executed successfully.
